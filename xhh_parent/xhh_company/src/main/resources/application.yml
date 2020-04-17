@@ -1,0 +1,17 @@
+
+spring:
+  application:
+    name: xhh-company
+  datasource:
+    password: "025431"
+    username: root
+    url: jdbc:mariadb://localhost:3307/saas
+    driver-class-name: org.mariadb.jdbc.Driver
+  jpa:
+    database: mysql
+    show-sql: true
+    open-in-view: true
+
+server:
+  port: 9001
+

@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.xhh.company.CompanyTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.009 s <<< FAILURE! - in com.xhh.company.CompanyTest
+text  Time elapsed: 0.003 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.xhh.company.CompanyTest.text(CompanyTest.java:22)
+
